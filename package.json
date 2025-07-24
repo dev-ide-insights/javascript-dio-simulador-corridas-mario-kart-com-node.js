@@ -1,0 +1,14 @@
+{
+  "name": "simulador-corridas-mario-kart",
+  "version": "0.0.1",
+  "description": "Projeto criado no curso Simulador de Corridas do Mario Kart com Node.js da DIO",
+
+  
+  "main": "main.js",
+  "scripts": {
+    "start": "node .\\src\\main.js ",
+    "test": "\"echo 'Testing'\""
+  },
+  "author": "Eduardo Correa",
+  "license": "ISC"
+}
